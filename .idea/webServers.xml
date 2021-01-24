@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="16061c0a-ae8a-4b95-8471-5e15a27c115f" name="chloek" url="http://chloek.dothome.co.kr">
+        <fileTransfer host="chloek.dothome.co.kr" port="21" rootFolder="/html/web">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
